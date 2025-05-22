@@ -1,0 +1,54 @@
+body{
+    background-image:url("img/kapibara.jpg")
+}
+p{
+    color:rgb(20, 69, 141);
+    font-family: cursive;
+    text-shadow: 1px 1px 1px blue;
+    font-size: 20px;
+}
+h1{
+    font-family: cursive;
+    color:rgb(99, 21, 201)
+}
+#b1{
+    color:black;
+    border: 2px dashed black;
+    padding: 20px;
+    background-color: chocolate;
+    font-size:larger;
+    border-radius: 30%;
+    padding: 10px;
+}
+#b2{
+    color:black;
+    border: 2px dashed black;
+    padding: 20px;
+    background-color: chocolate;
+    font-size:larger;
+    border-radius: 30%;
+    padding: 10px;
+}
+#b2:hover{
+    background-color: greenyellow;
+    box-shadow: 2px 2px green;
+    text-shadow: 2px 2px 3px greenyellow;
+}
+#b1:hover{
+    background-color: greenyellow;
+    box-shadow: 2px 2px green;
+    text-shadow: 2px 2px 3px greenyellow;
+}
+a{
+    text-decoration: none;
+    color:rgb(14, 75, 187);
+}
+img{
+    border-radius:40%;
+    border: 20px double rgb(20, 69, 141);
+}
+form{
+    margin-left: 1700px;
+    font-family: cursive;
+    color:purple
+}
