@@ -48,6 +48,7 @@ img{
     border: 20px double rgb(20, 69, 141);
 }
 form{
+    margin-left: 0px;
     font-family: cursive;
     color:purple
 }
