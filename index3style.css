@@ -11,6 +11,12 @@ h1{
     font-family: cursive;
     color:rgb(99, 21, 201)
 }
+h2{
+    color:rgb(20, 69, 141);
+    font-family: cursive;
+    text-shadow: 1px 1px 1px rgb(0, 174, 255);
+    font-size: 20px;
+}
 #b1{
     color:black;
     border: 2px dashed black;
@@ -51,4 +57,22 @@ form{
     margin-left: 0px;
     font-family: cursive;
     color:purple
+}
+#b4{
+    margin-left: 1700px;
+    color:rgb(0, 0, 0);
+    border: 2px dashed black;
+    padding: 20px;
+    background-color: rgb(171, 210, 30);
+    font-size:larger;
+    border-radius: 30%;
+    padding: 10px;
+}
+#b4:hover{
+    background-color: rgb(255, 71, 47);
+    box-shadow: 2px 2px rgb(128, 47, 0);
+    text-shadow: 2px 2px 3px greenyellow;
+}
+#b5{
+    margin-left: 1700px;
 }
